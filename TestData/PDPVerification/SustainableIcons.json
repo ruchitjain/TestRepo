@@ -1,0 +1,12 @@
+{
+  "TestCase": [
+    {
+      "TestCaseName": "Verify responible icon in PDP",
+      "TestID": "Verify responsible icon in PDP-US-EN",
+      "Test_Category": "PDP Verification",
+      "Language": "en",
+      "Module": "GucciModule",
+      "CountryCode": "US"
+    }
+  ]
+}

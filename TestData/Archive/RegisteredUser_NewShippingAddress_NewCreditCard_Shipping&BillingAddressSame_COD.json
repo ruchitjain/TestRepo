@@ -1,0 +1,29 @@
+{
+	"TestCase": [
+		{
+			"TestCaseName": "Registered User COD Checkout - No Card present in Wallet - New Shipping Address - New Credit Card - Same Shipping & Billing Address - JP",
+			"TestID": "JP-NSA-NCC-SSBA",
+			"Test_Category": "Registered User COD Checkout",
+			"Language": "ja",
+			"Module": "RegisteredUserCheckoutModule",
+			"Payment_MethodType": "COD",
+			"CountryCode": "JP",
+			"preSaveCardsInWallet": "No",
+			"numberOfPreSavedCards": "0",
+			"addressTypeOfCreditCard1": "",
+			"addressTypeOfCreditCard2": "",
+			"preSaveAddressInAddressBook": "No",
+			"numberOfPreSavedAddresses": "0",
+			"addressTypeOfAddress1": "",
+			"addressTypeOfAddress2": "",
+			"addNewShippingAddress": "Yes",
+			"ShippingAddressTypeDuringCheckout": "Shipping-Self",
+			"addNewCreditCardDuringCheckout": "Yes",
+			"addNewBillingAddressDuringCheckout": "No",
+			"BillingAddressTypeDuringCheckout": "Shipping-Self",
+			"billingAddressSameAsShippingAddressCheckbox": "True",
+			"addressTypeOfPrimaryShippingAddress": "",
+			"performCheckoutWithPrimaryShippingAddress": "No"
+		}
+	]
+}

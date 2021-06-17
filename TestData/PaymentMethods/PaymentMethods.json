@@ -1,0 +1,75 @@
+{
+	"paymentMethods": [
+		{
+			"Payment_ExpiryYear": "2024",
+			"Payment_CardNumber": "4111 - 1111 - 1111 - 1111",
+			"Payment_SecurityCode": "123",
+			"Payment_NameOnCard": "Milan Joshi",
+			"Payment_ExpiryMonth": "11",
+			"Payment_MethodType": "Visa"
+		},
+		{
+			"Paypal_user_email": "ruchit.jain@soprasteria.com",
+			"Paypal_user_password": "Ruchit@12",
+			"Payment_MethodType": "Paypal"
+		},
+		{
+			"Paypal_user_email": "ruchit.jain@soprasteria.com",
+			"Paypal_user_password": "Ruchit@12",
+			"Payment_MethodType": "PaypalExpress"
+		},
+		{
+			"Payment_ExpiryYear": "2024",
+			"Payment_CardNumber": "5555 - 5555 - 5555 - 4444",
+			"Payment_SecurityCode": "123",
+			"Payment_NameOnCard": "Milan Joshi",
+			"Payment_ExpiryMonth": "11",
+			"Payment_MethodType": "Master"
+		},
+		{
+			"Payment_ExpiryYear": "2024",
+			"Payment_CardNumber": "3782 - 8224 - 6310 - 005",
+			"Payment_SecurityCode": "1234",
+			"Payment_NameOnCard": "Milan Joshi",
+			"Payment_ExpiryMonth": "11",
+			"Payment_MethodType": "AMEX"
+		},
+		{
+			"Payment_ExpiryYear": "2024",
+			"Payment_CardNumber": "3530 - 1113 - 3330 - 0000",
+			"Payment_SecurityCode": "123",
+			"Payment_NameOnCard": "Milan Joshi",
+			"Payment_ExpiryMonth": "11",
+			"Payment_MethodType": "JCB"
+		},
+		{
+			"Payment_ExpiryYear": "2024",
+			"Payment_CardNumber": "6011 - 1111 - 1111 - 1117",
+			"Payment_SecurityCode": "123",
+			"Payment_NameOnCard": "Milan Joshi",
+			"Payment_ExpiryMonth": "11",
+			"Payment_MethodType": "DC"
+		},
+		{
+			"Amazon_loginEmail": "vibhu.tyagi@soprasteria.com",
+			"Amazon_loginPassword": "amazon123",
+			"Payment_MethodType": "Amazon"
+		},
+		{
+			"Payment_ExpiryYear": "2023",
+			"Payment_CardNumber": "3688 - 7025 - 8282 - 84",
+			"Payment_SecurityCode": "376",
+			"Payment_NameOnCard": "Milan Joshi",
+			"Payment_ExpiryMonth": "04",
+			"Payment_MethodType": "DCB"
+		},
+		{
+			"Payment_ExpiryYear": "2024",
+			"Payment_CardNumber": "4936 - 1234 - 6441 - 5380",
+			"Payment_SecurityCode": "123",
+			"Payment_NameOnCard": "Milan Joshi",
+			"Payment_ExpiryMonth": "11",
+			"Payment_MethodType": "SWITCH"
+		}
+	]
+}

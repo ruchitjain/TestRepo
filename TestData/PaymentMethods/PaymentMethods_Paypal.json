@@ -1,0 +1,164 @@
+{
+	"paypalpayment": [
+		{
+			"Paypal_user_email": "aepaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "AE"
+		},
+		{
+			"Paypal_user_email": "aupaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "AU"
+		},
+		{
+			"Paypal_user_email": "atpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "AT"
+		},
+		{
+			"Paypal_user_email": "bepaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "BE"
+		},
+		{
+			"Paypal_user_email": "bgpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "BG"
+		},
+		{
+			"Paypal_user_email": "capaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "CA"
+		},
+		{
+			"Paypal_user_email": "czpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "CZ"
+		},
+		{
+			"Paypal_user_email": "dkpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "DK"
+		},
+		{
+			"Paypal_user_email": "fipaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "FI"
+		},
+		{
+			"Paypal_user_email": "frpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "FR"
+		},
+		{
+			"Paypal_user_email": "depaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "DE"
+		},
+		{
+			"Paypal_user_email": "hkpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "HK"
+		},
+		{
+			"Paypal_user_email": "hupaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "HU"
+		},
+		{
+			"Paypal_user_email": "iepaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "IE"
+		},
+		{
+			"Paypal_user_email": "itpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "IT"
+		},
+		{
+			"Paypal_user_email": "jppaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "JP"
+		},
+		{
+			"Paypal_user_email": "kwpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "KW"
+		},
+		{
+			"Paypal_user_email": "nlpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "NL"
+		},
+		{
+			"Paypal_user_email": "nzpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "NZ"
+		},
+		{
+			"Paypal_user_email": "nopaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "NO"
+		},
+		{
+			"Paypal_user_email": "plpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "PL"
+		},
+		{
+			"Paypal_user_email": "ptpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "PT"
+		},
+		{
+			"Paypal_user_email": "qapaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "QA"
+		},
+		{
+			"Paypal_user_email": "ropaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "RO"
+		},
+		{
+			"Paypal_user_email": "sapaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "SA"
+		},
+		{
+			"Paypal_user_email": "sipaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "SI"
+		},
+		{
+			"Paypal_user_email": "espaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "ES"
+		},
+		{
+			"Paypal_user_email": "sepaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "SE"
+		},
+		{
+			"Paypal_user_email": "chpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "CH"
+		},
+		{
+			"Paypal_user_email": "trpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "TR"
+		},
+		{
+			"Paypal_user_email": "ukpaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "UK"
+		},
+		{
+			"Paypal_user_email": "uspaypalaccount@gucci.com",
+			"Paypal_user_password": "Test@123",
+			"CountryCode": "US"
+		}
+	]
+}

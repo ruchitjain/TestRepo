@@ -1,0 +1,27 @@
+UPDATE CMSSite;uid[unique=true];paypalExpressEnabled[default=true]
+;gucci-au;
+;gucci-at;
+;gucci-be;
+;gucci-bg;
+;gucci-ca;
+;gucci-cz;
+;gucci-dk;
+;gucci-fi;
+;gucci-fr;
+;gucci-de;
+;gucci-hu;
+;gucci-ie;
+;gucci-it;
+;gucci-nl;
+;gucci-no;
+;gucci-pl;
+;gucci-pt;
+;gucci-ro;
+;gucci-si;
+;gucci-es;
+;gucci-se;
+;gucci-ch;
+;gucci-uk;
+;gucci-us;
+;gucci-nz;
+;gucci-hk;

@@ -1,0 +1,29 @@
+{
+	"TestCase": [
+		{
+			"TestCaseName": "Registered User Discover Card Checkout - No Card present in Wallet - New Shipping Address - New Credit Card - Same Shipping & Billing Address - US",
+			"TestID": "US-NSA-NCC-SSBA",
+			"Test_Category": "Registered User Discover Card Checkout",
+			"Language": "en",
+			"Module": "RegisteredUserCheckoutModule",
+			"Payment_MethodType": "DC",
+			"CountryCode": "US",
+			"preSaveCardsInWallet": "No",
+			"numberOfPreSavedCards": "0",
+			"addressTypeOfCreditCard1": "",
+			"addressTypeOfCreditCard2": "",
+			"preSaveAddressInAddressBook": "No",
+			"numberOfPreSavedAddresses": "0",
+			"addressTypeOfAddress1": "",
+			"addressTypeOfAddress2": "",
+			"addNewShippingAddress": "Yes",
+			"ShippingAddressTypeDuringCheckout": "Shipping-Self",
+			"addNewCreditCardDuringCheckout": "Yes",
+			"addNewBillingAddressDuringCheckout": "No",
+			"BillingAddressTypeDuringCheckout": "Shipping-Self",
+			"billingAddressSameAsShippingAddressCheckbox": "True",
+			"addressTypeOfPrimaryShippingAddress": "",
+			"performCheckoutWithPrimaryShippingAddress": "No"
+		}
+	]
+}
